@@ -1,0 +1,9 @@
+dict2={'car':'benz','model':2020,'color':'blue'}
+dict2.update({"color":"bluewww"})
+print(dict2)
+x=dict2.copy()
+print(x)
+y=dict2.keys()
+print(y)
+z=dict2.values()
+print(z)
